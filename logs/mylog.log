@@ -1,0 +1,8 @@
+[INFO ] 2025-06-01 15:03:08.443 {main} assured - Test data generated for user: jewell.skiles
+[INFO ] 2025-06-01 15:03:08.462 {main} assured - Sending POST request to create user
+[INFO ] 2025-06-01 15:03:12.237 {main} assured - User created successfully
+[INFO ] 2025-06-01 15:03:12.256 {main} assured - Sending GET request to retrieve user
+[INFO ] 2025-06-01 15:03:16.712 {main} assured - Sending PUT request to update user
+[INFO ] 2025-06-01 15:03:18.104 {main} assured - User updated successfully
+[INFO ] 2025-06-01 15:03:18.106 {main} assured - Sending DELETE request to delete user
+[INFO ] 2025-06-01 15:03:22.444 {main} assured - User deleted successfully
