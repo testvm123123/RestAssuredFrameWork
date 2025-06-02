@@ -71,6 +71,7 @@ public class userTest {
         Assert.assertEquals(response.getStatusCode(), 200);
         
         logger.info("User deleted successfully************");
+        logger.info("Thirupathi");
         logger.info("User deleted successfully");
         logger.info("KCPD");
     }
