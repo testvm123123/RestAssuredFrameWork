@@ -72,5 +72,6 @@ public class userTest {
         
         logger.info("User deleted successfully************");
         logger.info("User deleted successfully");
+        logger.info("KCPD");
     }
 }
