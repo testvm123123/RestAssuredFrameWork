@@ -68,7 +68,7 @@ public class userTest {
         Thread.sleep(3000);
         Response response = userEndpoints.deleteUser(this.usrPlds.getUsername());
         response.then().log().all();
-        Assert.assertEquals(response.getStatusCode(), 404);
+        Assert.assertEquals(response.getStatusCode(), 200);
         logger.info("User deleted successfully");
     }
 }
