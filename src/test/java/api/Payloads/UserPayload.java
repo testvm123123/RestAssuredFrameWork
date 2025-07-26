@@ -21,6 +21,7 @@ public class UserPayload {
 	String password;
 	String phone;
 	int userStatus;
+	
 	public int getId() {
 		return id;
 	}
