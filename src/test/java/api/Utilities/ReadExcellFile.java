@@ -45,7 +45,7 @@ public class ReadExcellFile {
 		sh = wb.getSheet(sheet);
 		cell = wb.getSheet(sheet).getRow(Row).getCell(Cell);
 		DataFormatter formatter = new DataFormatter();
-	    String value = formatter.formatCellValue(cell);  // ✅ Converts any type to a formatted String
+	    String value = formatter.formatCellValue(cell);  
 
 	    wb.close();
 	   fis.close();
